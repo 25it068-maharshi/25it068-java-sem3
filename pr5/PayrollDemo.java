@@ -1,3 +1,4 @@
+package pr5;
 abstract class Employee {
     String name;
     int id;
